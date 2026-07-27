@@ -1,0 +1,4 @@
+Wir haben ein großes Problem, Stephans bessere Hälfte kauft zu oft faulige Melonen, Stephan mag keine fauligen Melonen, er mag sie frisch und saftig.
+Angeblich gibt es russische Omis, die den Reifegrad anhand des Tons bei drauf klopfen erkennen können.
+Jetzt braucht Stephan eine App, die den Klopfton erkennen und klassifizieren kann, damit er in Zukunft nur noch die guten Melonen bekommt.
+Am besten wäre es mit dem Handy dagegen zu klopfen, den Ton aufzeichnen und auswerten.
